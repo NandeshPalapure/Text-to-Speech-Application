@@ -9,7 +9,8 @@ A simple web-based Text-to-Speech application built using HTML, CSS, and JavaScr
 - Lightweight and responsive design.
 
 ## Demo
-![App Screenshot](image/screenshot.png)
+![Alt text]([images/your-image.png](https://github.com/user-attachments/assets/a25f68e1-38b8-4e61-abbd-a614dc7b5294)
+
 
 ## Usage
 1. Open `index.html` in your browser.
